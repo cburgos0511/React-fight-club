@@ -1,0 +1,59 @@
+.App {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+.tt {
+  display: flex;
+  justify-content: space-evenly;
+}
+.fighters {
+  display: flex;
+}
+
+.f {
+  width: 150px;
+}
+
+.f h1 {
+  font-size: 14px;
+}
+table {
+  border-collapse: collapse;
+  border: 1px black solid;
+  margin-right: 50px;
+}
+thead,
+tbody {
+  border: 1px black solid;
+}
+th {
+  padding: 10px;
+  border: 1px black solid;
+}
+
+tr {
+  text-align: left;
+  border: 1px black solid;
+}
+
+td {
+  padding: 10px;
+  border: 1px black solid;
+  text-align: left;
+  cursor: pointer;
+}
+
+.winns {
+  text-align: center;
+}
+
+.btn {
+  width: 7rem;
+  height: 2.2rem;
+  font-size: 18px;
+  border: 1px black solid;
+  color: #202020;
+  background: #bdbdbd;
+  outline: none;
+  cursor: pointer;
+}

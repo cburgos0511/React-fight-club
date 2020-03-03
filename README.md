@@ -8,8 +8,10 @@ You can selecting a fighter by clicking on the name. There is a toggle button to
 
 ![](src/images/fc2.png)
 
-
+After selecting two fighters make them fight. Once a winner is selected a point is automatically given to the player
 
 ![](src/images/fc3.png)
+
+More fighting.
 
 ![](src/images/fc4.png)
